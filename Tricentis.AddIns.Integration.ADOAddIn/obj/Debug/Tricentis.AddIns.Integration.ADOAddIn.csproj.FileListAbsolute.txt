@@ -1,0 +1,11 @@
+C:\Users\lione\Source\Repos\Tricentis.ADOIntegration\Tricentis.AddIns.Integration.ADOAddIn\bin\Debug\Tricentis.AddIns.Integration.ADOAddIn.dll.config
+C:\Users\lione\Source\Repos\Tricentis.ADOIntegration\Tricentis.AddIns.Integration.ADOAddIn\bin\Debug\Tricentis.AddIns.Integration.ADOAddIn.dll
+C:\Users\lione\Source\Repos\Tricentis.ADOIntegration\Tricentis.AddIns.Integration.ADOAddIn\bin\Debug\Tricentis.AddIns.Integration.ADOAddIn.pdb
+C:\Users\lione\Source\Repos\Tricentis.ADOIntegration\Tricentis.AddIns.Integration.ADOAddIn\bin\Debug\Tricentis.AddIns.Integration.ADO.dll
+C:\Users\lione\Source\Repos\Tricentis.ADOIntegration\Tricentis.AddIns.Integration.ADOAddIn\bin\Debug\Tricentis.AddIns.Integration.ADO.pdb
+C:\Users\lione\Source\Repos\Tricentis.ADOIntegration\Tricentis.AddIns.Integration.ADOAddIn\bin\Debug\Tricentis.AddIns.Integration.ADO.dll.config
+C:\Users\lione\Source\Repos\Tricentis.ADOIntegration\Tricentis.AddIns.Integration.ADOAddIn\obj\Debug\Tricentis.AddIns.Integration.ADOAddIn.csproj.AssemblyReference.cache
+C:\Users\lione\Source\Repos\Tricentis.ADOIntegration\Tricentis.AddIns.Integration.ADOAddIn\obj\Debug\Tricentis.AddIns.Integration.ADOAddIn.csproj.CoreCompileInputs.cache
+C:\Users\lione\Source\Repos\Tricentis.ADOIntegration\Tricentis.AddIns.Integration.ADOAddIn\obj\Debug\Tricentis.AddIns.Integration.ADOAddIn.csproj.CopyComplete
+C:\Users\lione\Source\Repos\Tricentis.ADOIntegration\Tricentis.AddIns.Integration.ADOAddIn\obj\Debug\Tricentis.AddIns.Integration.ADOAddIn.dll
+C:\Users\lione\Source\Repos\Tricentis.ADOIntegration\Tricentis.AddIns.Integration.ADOAddIn\obj\Debug\Tricentis.AddIns.Integration.ADOAddIn.pdb

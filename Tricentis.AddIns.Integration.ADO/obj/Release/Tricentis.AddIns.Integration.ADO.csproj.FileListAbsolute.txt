@@ -1,0 +1,9 @@
+C:\Users\lione\Source\Repos\Tricentis.ADOIntegration\Tricentis.AddIns.Integration.ADO\bin\Release\Tricentis.AddIns.Integration.ADO.dll.config
+C:\Users\lione\Source\Repos\Tricentis.ADOIntegration\Tricentis.AddIns.Integration.ADO\bin\Release\Tricentis.AddIns.Integration.ADO.dll
+C:\Users\lione\Source\Repos\Tricentis.ADOIntegration\Tricentis.AddIns.Integration.ADO\bin\Release\Tricentis.AddIns.Integration.ADO.pdb
+C:\Users\lione\Source\Repos\Tricentis.ADOIntegration\Tricentis.AddIns.Integration.ADO\bin\Release\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\lione\Source\Repos\Tricentis.ADOIntegration\Tricentis.AddIns.Integration.ADO\bin\Release\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\lione\Source\Repos\Tricentis.ADOIntegration\Tricentis.AddIns.Integration.ADO\obj\Release\Tricentis.AddIns.Integration.ADO.csproj.CoreCompileInputs.cache
+C:\Users\lione\Source\Repos\Tricentis.ADOIntegration\Tricentis.AddIns.Integration.ADO\obj\Release\Tricentis.AddIns.Integration.ADO.csproj.CopyComplete
+C:\Users\lione\Source\Repos\Tricentis.ADOIntegration\Tricentis.AddIns.Integration.ADO\obj\Release\Tricentis.AddIns.Integration.ADO.dll
+C:\Users\lione\Source\Repos\Tricentis.ADOIntegration\Tricentis.AddIns.Integration.ADO\obj\Release\Tricentis.AddIns.Integration.ADO.pdb

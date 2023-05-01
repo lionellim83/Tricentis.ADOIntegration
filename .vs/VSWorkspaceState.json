@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Tricentis.AddIns.Integration.ADO",
+    "\\Tricentis.AddIns.Integration.ADOAddIn",
+    "\\Tricentis.AddIns.Integration.ADOAddIn\\Tasks",
+    "\\Tricentis.AddIns.Integration.ADO\\Objects"
+  ],
+  "SelectedNode": "\\Tricentis.AddIns.Integration.ADOAddIn\\Tasks\\BaseADOTask.cs",
+  "PreviewInSolutionExplorer": false
+}
