@@ -1,0 +1,14 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Tricentis.AddIns.Integration.ADO/obj/Debug
+/Tricentis.AddIns.Integration.ADOAddIn/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+/Tricentis.AddIns.Integration.ADO/obj/Release/Tricentis.AddIns.Integration.ADO.csproj.AssemblyReference.cache
+/Tricentis.AddIns.Integration.ADO/obj/Release/DesignTimeResolveAssemblyReferencesInput.cache
+/Tricentis.AddIns.Integration.ADOAddIn/obj/Debug/Tricentis.AddIns.Integration.ADOAddIn.csproj.AssemblyReference.cache
+/Tricentis.AddIns.Integration.ADOAddIn/obj/Release/Tricentis.AddIns.Integration.ADOAddIn.csproj.AssemblyReference.cache
+/.vs/Tricentis.AddIns.Integration.ADOIntegration/v17/.suo
+/.vs/Tricentis.ADOIntegration/v17/.wsuo
+/.vs/slnx.sqlite
+/.vs/VSWorkspaceState.json
